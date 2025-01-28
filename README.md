@@ -1,6 +1,4 @@
-## Hello! Welcome to my profile ⚡
-
-# About Me
+# Hello! Welcome to my profile ⚡
 
 My name is Diogo, but you can call me Dezzogo. I am a Software Engineering student, currently on a journey to learn and understand the fundamentals of this field. My goal is to become a professional with excellent skills in software development.
 
