@@ -1,4 +1,14 @@
-## Welcome to Dezzogo's profile
+## Hello! Welcome to my profile ⚡
+
+# About Me
+
+My name is Diogo, but you can call me Dezzogo. I am a Software Engineering student, currently on a journey to learn and understand the fundamentals of this field. My goal is to become a professional with excellent skills in software development.
+
+I am passionate about learning and continuously improving my abilities. I believe that having a strong foundation in software engineering will enable me to tackle complex challenges and contribute effectively to projects in the future.
+
+I am also open to networking and connecting with others in the industry. Feel free to reach out if you'd like to collaborate or share insights!
+
+Thank you for visiting my GitHub profile, and I look forward to sharing my progress and projects with you! 📚🧑‍💻🤘
 
  <div>
    <a href="https://github.com/dezzogo">
